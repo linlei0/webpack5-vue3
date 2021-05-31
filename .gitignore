@@ -1,0 +1,8 @@
+node_modules
+*.rar
+*.zip
+package-lock.json
+.history
+.vscode
+.DS_Store
+dist
